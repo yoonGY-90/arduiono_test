@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\WindowsFormsapp 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21FA612-C992-4F9F-A879-6952858AF153}|WindowsFormsapp 1\\WindowsFormsapp 1.csproj|d:\\test\\windowsformsapp 1\\windowsformsapp 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E21FA612-C992-4F9F-A879-6952858AF153}|WindowsFormsapp 1\\WindowsFormsapp 1.csproj|solutionrelative:windowsformsapp 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\test\\WindowsFormsapp 1\\WindowsFormsapp 1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsapp 1\\Form1.cs",
+              "ToolTip": "D:\\test\\WindowsFormsapp 1\\WindowsFormsapp 1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WindowsFormsapp 1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:21:56.583Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

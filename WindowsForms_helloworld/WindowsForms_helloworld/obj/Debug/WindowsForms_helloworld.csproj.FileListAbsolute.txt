@@ -1,0 +1,10 @@
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\bin\Debug\WindowsForms_helloworld.exe.config
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\bin\Debug\WindowsForms_helloworld.exe
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\bin\Debug\WindowsForms_helloworld.pdb
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.csproj.AssemblyReference.cache
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.Form1.resources
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.Properties.Resources.resources
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.csproj.GenerateResource.cache
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.csproj.CoreCompileInputs.cache
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.exe
+D:\test\WindowsForms_helloworld\WindowsForms_helloworld\obj\Debug\WindowsForms_helloworld.pdb

@@ -1,0 +1,10 @@
+D:\test\WindowsForms_group\WindowsForms_group\bin\Debug\WindowsForms_group.exe.config
+D:\test\WindowsForms_group\WindowsForms_group\bin\Debug\WindowsForms_group.exe
+D:\test\WindowsForms_group\WindowsForms_group\bin\Debug\WindowsForms_group.pdb
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.csproj.AssemblyReference.cache
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.Form1.resources
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.Properties.Resources.resources
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.csproj.GenerateResource.cache
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.csproj.CoreCompileInputs.cache
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.exe
+D:\test\WindowsForms_group\WindowsForms_group\obj\Debug\WindowsForms_group.pdb
