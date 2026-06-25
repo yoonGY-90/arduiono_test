@@ -48,6 +48,20 @@ void loop() {
     }
   }
 
+  Serial.println("LED 어두워지는 중...");
+
+  // 100%에서 0%까지 서서히 밝아지기
+  for (int brightness = 100; brightness >=0; brightness--) {
+    softwarePWM(LED_PIN, brightness, 50); // 각 밝기를 50ms동안 유지
+
+    //10% 단위로 진행 상황 출력
+    if (brightness % 10 == 0) {
+      Serial.print("밝기: ");
+      Serial.println(brightness);
+      Serial.println("%");
+    }
+  }
+
   Serial.println("--- 사이클 완료 --n");
   delay(500); // 다음 사이클 전 잠깐 대기
 }
